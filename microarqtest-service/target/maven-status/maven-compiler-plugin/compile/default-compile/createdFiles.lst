@@ -1,0 +1,3 @@
+com\bs\proteo\microservices\mx\microarqtest\MicroArqTestApp.class
+com\bs\proteo\microservices\mx\microarqtest\service\MicroArqTestService.class
+com\bs\proteo\microservices\mx\microarqtest\web\MicroArqTestController.class

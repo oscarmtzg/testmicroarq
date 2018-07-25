@@ -1,0 +1,3 @@
+com\bs\proteo\microservices\mx\microarqtest\domain\MicroArqTestRequest.class
+com\bs\proteo\microservices\mx\microarqtest\domain\MicroArqTestResponse.class
+com\bs\proteo\microservices\mx\microarqtest\service\MicroArqTestPublicService.class

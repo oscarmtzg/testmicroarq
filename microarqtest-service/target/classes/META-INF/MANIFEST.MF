@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Microservice microarqtest service
+Implementation-Version: 1.0.0-latest
+Built-By: ocmg
+Specification-Vendor: Pivotal Software, Inc.
+Specification-Title: Microservice microarqtest service
+Implementation-Vendor-Id: com.bs.proteo.microservices.mx
+Build-Jdk: 1.8.0_60
+Specification-Version: 1.0.0-latest
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
