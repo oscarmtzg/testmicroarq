@@ -1,4 +1,0 @@
-2018-07-25T21:03:52.605Z [main] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2018-07-25T21:03:52.608Z [main] INFO  c.n.c.s.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-2018-07-25T21:03:52.625Z [main] INFO  c.n.config.DynamicPropertyFactory - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@348e6
-2018-07-25T21:03:52.648Z [main] INFO  c.b.p.m.m.m.w.MicroArqTestController - [N/A] [N/A] [N/A] [N/A] Operation 1 invoked
