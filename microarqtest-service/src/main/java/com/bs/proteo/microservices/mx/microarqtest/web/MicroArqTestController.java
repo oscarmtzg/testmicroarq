@@ -31,7 +31,7 @@ public class MicroArqTestController implements MicroArqTestService {
 		if(logger.isInfoEnabled()) {
 			logger.info("Operation 1 invoked");
 		}
-		return "Some dummy string : " + messageProperty;
+		return "Some dummy modified string : " + messageProperty;
 	}
 
 	public MicroArqTestResponse operation2(@PathVariable("param") String inputParam) {
