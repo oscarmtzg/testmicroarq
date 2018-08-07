@@ -23,7 +23,7 @@ public class MicroArqTestControllerTest extends MicroserviceMock {
 	 */
 	@Test
 	public void operation1Mock() {
-		String expected = "Some dummy string : Operation 1.";
+		String expected = "Some dummy modified string : Operation 1.";
 		String result = microarqtestController.operation1();
 		Assert.assertEquals(expected, result);
 	}
